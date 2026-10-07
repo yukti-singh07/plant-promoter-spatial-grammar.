@@ -1,0 +1,10 @@
+Comparison_Group,Stress_Count,Stress_Avg_GC,Background_Count,Background_Avg_GC,P_Value,Significant
+Species: Chickpea,51,25.03,28825,25.28,8.52e-01,NO
+Species: Arabidopsis,601,31.87,32865,33.32,8.79e-12,YES
+Species: Pigeon_pea,60,25.6,32201,27.38,9.39e-02,NO
+Species: Cassava,89,26.87,33021,27.45,8.44e-01,NO
+Species: Quinoa,113,31.55,55216,33.22,8.13e-04,YES
+Species: Sorghum,61,41.95,31643,42.04,8.42e-01,NO
+POOLED: DICOTS ONLY,914,30.55,182128,29.9,1.43e-03,YES
+POOLED: MONOCOTS ONLY,61,41.95,31643,42.04,8.42e-01,NO
+OVERALL (All 6 Species),975,31.26,213771,31.7,3.50e-01,NO
